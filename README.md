@@ -2,6 +2,9 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eltopu&show_icons=true&theme=dark)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eltopu&layout=compact&theme=dark)
+
+
 
 <!--
 **eltopu/eltopu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
