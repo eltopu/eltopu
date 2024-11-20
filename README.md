@@ -10,9 +10,10 @@
 
 <b>My GitHub Stats</b>
 
+<a href="http://www.github.com/eltopu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eltopu&stroke=0891b2&background=0f172a&ring=f97316&fire=f97316&currStreakNum=0891b2&currStreakLabel=f97316&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
+
 <a href="http://www.github.com/eltopu"><img src="https://github-readme-stats.vercel.app/api?username=eltopu&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=0891b2&icon_color=ef4444&bg_color=0f172a&hide_border=true&show_icons=true" alt="eltopu's GitHub stats" /></a>
 
-<a href="http://www.github.com/eltopu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eltopu&stroke=0891b2&background=0f172a&ring=f97316&fire=f97316&currStreakNum=0891b2&currStreakLabel=f97316&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
 
 ### Skills
 
