@@ -4,15 +4,35 @@
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/eltopu" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left" style="display: flex; gap: 10px;"> 
+  <!-- GitHub Icon -->
+  <a href="https://www.github.com/eltopu" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /> 
+    </picture> 
+  </a>
 
-### Badges
+  <!-- LinkedIn Icon -->
+  <a href="https://www.linkedin.com/in/elton-mwangi-89919a189" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /> 
+    </picture> 
+  </a>
+</p>
+
+
 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/eltopu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eltopu&stroke=0891b2&background=0f172a&ring=f97316&fire=f97316&currStreakNum=0891b2&currStreakLabel=f97316&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
 
-<a href="http://www.github.com/eltopu"><img src="https://github-readme-stats.vercel.app/api?username=eltopu&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=0891b2&icon_color=ef4444&bg_color=0f172a&hide_border=true&show_icons=true" alt="eltopu's GitHub stats" /></a>
+
+<a href="http://www.github.com/eltopu"><img src="https://github-readme-stats.vercel.app/api?username=eltopu&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=0891b2&icon_color=ef4444&bg_color=0f172a&hide_border=true&show_icons=true&cache_seconds=3600" alt="eltopu's GitHub stats" /></a>
+
 
 
 ### Skills
