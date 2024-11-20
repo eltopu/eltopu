@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eltopu&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eltopu&show_icons=true&theme=dark)  ![GitHub Streak](https://streak-stats.demolab.com/?user=nyarikikaruma&theme=dark)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eltopu&layout=compact&theme=dark)
 
