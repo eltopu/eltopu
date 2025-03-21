@@ -23,13 +23,32 @@
     </picture> 
   </a>
 </p>
-
+<!--
+  <a href="https://user-images.githubusercontent.com/40064496/120735130-6c9e2300-c4c0-11eb-8346-94429163466a.gif" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <img src="https://user-images.githubusercontent.com/40064496/120735130-6c9e2300-c4c0-11eb-8346-94429163466a.gif" width="200" height="200" alt="LinkedIn" /> 
+    </picture> 
+  </a>
+</p>
+ -->
 
 
 <b>My GitHub Stats</b>
 
+<!--
+<a href="http://www.github.com/eltopu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eltopu&stroke=0891b2&background=0f172a&ring=f97316&fire=f97316&currStreakNum=0891b2&currStreakLabel=f97316&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a> -->
 
-<a href="http://www.github.com/eltopu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eltopu&stroke=0891b2&background=0f172a&ring=f97316&fire=f97316&currStreakNum=0891b2&currStreakLabel=f97316&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
+<p style="display: flex; align-items: center; gap: 20px;">
+  <a href="http://www.github.com/eltopu">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=eltopu&stroke=0891b2&background=0f172a&ring=f97316&fire=f97316&currStreakNum=0891b2&currStreakLabel=f97316&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" />
+  </a>
+
+  <a href="https://user-images.githubusercontent.com/40064496/120735130-6c9e2300-c4c0-11eb-8346-94429163466a.gif" target="_blank" rel="noreferrer">
+    <picture>
+      <img src="https://user-images.githubusercontent.com/40064496/120735130-6c9e2300-c4c0-11eb-8346-94429163466a.gif" width="200" height="200" alt="LinkedIn" />
+    </picture>
+  </a>
+</p>
 
 
 
