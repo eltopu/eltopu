@@ -22,15 +22,12 @@
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /> 
     </picture> 
   </a>
-</p>
-<!--
-  <a href="https://user-images.githubusercontent.com/40064496/120735130-6c9e2300-c4c0-11eb-8346-94429163466a.gif" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <img src="https://user-images.githubusercontent.com/40064496/120735130-6c9e2300-c4c0-11eb-8346-94429163466a.gif" width="200" height="200" alt="LinkedIn" /> 
-    </picture> 
+
+  <!-- Portfolio Icon (Briefcase) -->
+  <a href="https://eltopu.vercel.app/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" width="32" height="32" alt="Portfolio"  /> 
   </a>
 </p>
- -->
 
 
 <b>My GitHub Stats</b>
